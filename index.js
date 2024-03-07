@@ -2,9 +2,15 @@
 // 1 lb is 16 oz.
 function getOz(massInLbs) {
   // TODO: Implement this function.
-  const result = -1;
+  const result = (massInLbs * 16);
   return result;
 }
+
+
+console.log(result);
+
+
+
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
